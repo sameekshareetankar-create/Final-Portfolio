@@ -1,4 +1,4 @@
-/* Basic Reset */
+
 *{
     margin:0;
     padding:0;
@@ -14,7 +14,7 @@ body{
     background-color:#fbf7ef;
 }
 
-/* Header */
+
 header{
     display:flex;
     justify-content:space-between;
@@ -56,7 +56,7 @@ h3{
     margin-top:12px; 
 }
 
-/* Home */
+
 #home{
     display:flex;
     justify-content:space-between;
@@ -83,10 +83,10 @@ h3{
 }
 
 .pp{
-    width:360px;        /* image width */
-    height:360px;       /* image height */
-    object-fit:cover;   /* keeps image properly fitted */
-    border-radius:12px; /* slight curve at corners */
+    width:360px;        
+    height:360px;       
+    object-fit:cover;   
+    border-radius:12px; 
     border:3px solid #e4d8c6;
 }
 
@@ -122,7 +122,7 @@ h3{
     box-shadow:0 10px 18px rgba(200, 167, 102, 0.35);
 }
 
-/* Experience and Projects */
+
 #experience div{ 
     margin-top:25px;
 }
@@ -133,7 +133,7 @@ h3{
     border-radius:10px;
     background-color:#fbf7ef;
     transition:transform 0.25s ease, background 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
-    /* box-shadow: 0 4px 10px rgba(0,0,0,0.2); */
+    
 
 }
 
@@ -228,7 +228,7 @@ transform:scale(0.95);
     margin-top:15px;
 }
 
-/* Footer */
+
 footer{
     text-align:center;
     padding:20px;
